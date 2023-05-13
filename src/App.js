@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import React from 'react';
+import logo from './components/IITJ_logo.jpg';
 import './App.css';
 
 function App() {
@@ -6,9 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        
         <a
           className="App-link"
           href="https://reactjs.org"

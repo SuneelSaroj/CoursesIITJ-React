@@ -1,0 +1,22 @@
+
+  
+  .wrapper {
+    margin-top: 10px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+    width: 30vw;
+    border: 2px solid black;
+    height: 80vh;
+    overflow: auto;
+  }
+  
+  .vertically-centered-list {
+
+    width: 90%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+ 

@@ -1,0 +1,16 @@
+.Item {
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin: 10px 20px;
+    font-weight: bold;
+   border-bottom: 1px solid black;
+  }
+  
+  
+  .Item:hover{
+    background-color: lightblue;
+    border-radius: 2px;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+  }
